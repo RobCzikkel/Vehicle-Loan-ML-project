@@ -27,7 +27,7 @@ ___
 + Seaborn
 + Pandas
 + Numpy
-+ scikit-learn
++ scikit-learn 
 + imbalanced-learn
 
 

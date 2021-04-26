@@ -30,7 +30,6 @@ ___
 + scikit-learn 
 + imbalanced-learn
 
-
 <br>
 
 The dataset has been download from [Kaggle](https://www.kaggle.com/avikpaul4u/vehicle-loan-default-prediction)

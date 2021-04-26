@@ -6,9 +6,9 @@ This is a portfolio project that intends to showcase my skills in using classifi
 
 The project consists of two parts:
 + a notebook with the wrangling and exploratory analysis<br>
-    [*(Vehicle Loan Exploratory Analysis.ipynb)*](../blob/master/Vehicle-Loan-Exploratory-Analysis.ipynb)
+    [*(Vehicle Loan Exploratory Analysis.ipynb)*](../blob/main/Vehicle-Loan-Exploratory-Analysis.ipynb)
 + another notebook with the ML models and their predictions<br>
-    [*(Vehicle Loan ML models.ipynb)*](../blob/master/Vehicle-Loan-ML-models.ipynb)
+    [*(Vehicle Loan ML models.ipynb)*](../blob/main/Vehicle-Loan-ML-models.ipynb)
 
 ___
 
